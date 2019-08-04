@@ -1,16 +1,19 @@
 
 body {
-  background-image: url("../images/3929c3b615e3248335ad5cfcfa9ebed0.jpg");
-  background-size: 100%;
+  background-image: url("../images/8964e02af0957329c5953d951e02f18c.jpg") ;
+  background-size: cover;
+  border:10px;
   background-position: center;
   background-repeat: no-repeat;
   font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif; 
   text-align:center;
   font-size:18px;
+  padding-bottom:0
 }
 
 .container{
   text-align: center;
+ 
 }
 
 .wrap {
